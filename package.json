@@ -1,0 +1,23 @@
+{
+  "name": "blog-unanimous",
+  "version": "1.0.0",
+  "description": "App to view blogs and podcasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kompanycoder/blog-unanimous.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kompanycoder/blog-unanimous/issues"
+  },
+  "homepage": "https://github.com/kompanycoder/blog-unanimous#readme",
+  "dependencies": {
+    "concurrently": "^5.0.2"
+  }
+}
